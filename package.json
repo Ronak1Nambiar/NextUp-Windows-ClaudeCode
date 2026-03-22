@@ -1,6 +1,7 @@
 {
   "name": "nextup",
   "version": "0.1.0",
+  "description": "AI-powered life admin tool that turns messy documents — emails, PDFs, meeting notes, bills, assignments — into a clean breakdown: summary, deadlines, key entities, urgency level, next steps, and reply drafts, all saved to a personal task dashboard.",
   "private": true,
   "scripts": {
     "dev": "next dev",
